@@ -1,4 +1,4 @@
-﻿### New DB Configured 
+[[[[[﻿### New DB Configured 
 
 supabase connection
-https://pastebin.com/ZC95s14Da
+https://pastebin.com/ZC95s14D
